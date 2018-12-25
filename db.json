@@ -482,7 +482,7 @@
         {
             "id": 40,
             "text": "Able to clearly present your work to others.",
-            "icon": "./guidance.jpg",
+            "icon": "./idea.jpg",
             "yes": "Yes",
             "no": "No",
             "ability": "Guidance ability",
@@ -491,7 +491,7 @@
         {
             "id": 41,
             "text": "Able to clearly present your work to others and coach others to help together",
-            "icon": "./guidance.jpg",
+            "icon": "./idea.jpg",
             "yes": "Yes",
             "no": "No",
             "ability": "Guidance ability",
@@ -500,7 +500,7 @@
         {
             "id": 42,
             "text": "Monitor others' progress and assist when needed.",
-            "icon": "./guidance.jpg",
+            "icon": "./idea.jpg",
             "yes": "Yes",
             "no": "No",
             "ability": "Guidance ability",
