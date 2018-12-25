@@ -343,6 +343,168 @@
             "no": "No",
             "ability": "Leadership",
             "weight": 5
-        }        
+        },
+        {
+            "id": 25,
+            "text": "Avoid careless mistakes through being extra careful.",
+            "icon": "./carefulness.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Carefulness",
+            "weight": 2
+        },
+        {
+            "id": 26,
+            "text": "Avoid careless mistakes through using tools to help.",
+            "icon": "./carefulness.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Carefulness",
+            "weight": 3
+        },
+        {
+            "id": 27,
+            "text": "Avoid careless mistakes through using/investigating/improving/developing tools.",
+            "icon": "./carefulness.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Carefulness",
+            "weight": 5
+        },
+        {
+            "id": 28,
+            "text": "Just solve bugs/problems when they come.",
+            "icon": "./crisis.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Crisis management",
+            "weight": 2
+        },
+        {
+            "id": 29,
+            "text": "Learning from the bugs solved. Sharing what is learned.",
+            "icon": "./crisis.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Crisis management",
+            "weight": 3
+        },
+        {
+            "id": 30,
+            "text": "Able to foresee danger ahead of time. Able to identify repeated pattern bugs and to avoid problems ahead of time.",
+            "icon": "./crisis.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Crisis management",
+            "weight": 5
+        },
+        {
+            "id": 31,
+            "text": "A follower to other team's instruction.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 2
+        },
+        {
+            "id": 32,
+            "text": "Proactively identify and escalate gaps when working with other teams.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 3
+        },
+        {
+            "id": 33,
+            "text": "Can make other team become you long-term partner.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 5
+        },
+        {
+            "id": 34,
+            "text": "A follower to other team's instruction.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 2
+        },
+        {
+            "id": 35,
+            "text": "Proactively identify and escalate gaps when working with other teams.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 3
+        },
+        {
+            "id": 36,
+            "text": "Can make other team become you long-term partner.",
+            "icon": "./cross_team.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Cross Team Collaboration",
+            "weight": 5
+        },
+        {
+            "id": 37,
+            "text": "No idea. Just want to keep current status.",
+            "icon": "./career.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Career path",
+            "weight": 2
+        },
+        {
+            "id": 38,
+            "text": "Having the desire to advance but still have uncertainties.",
+            "icon": "./career.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Career path",
+            "weight": 3
+        },
+        {
+            "id": 39,
+            "text": "Knowing exactly what is desired and will plan with the manager accordingly.",
+            "icon": "./career.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Career path",
+            "weight": 5
+        },
+        {
+            "id": 40,
+            "text": "Able to clearly present your work to others.",
+            "icon": "./guidance.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Guidance ability",
+            "weight": 2
+        },
+        {
+            "id": 41,
+            "text": "Able to clearly present your work to others and coach others to help together",
+            "icon": "./guidance.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Guidance ability",
+            "weight": 3
+        },
+        {
+            "id": 42,
+            "text": "Monitor others' progress and assist when needed.",
+            "icon": "./guidance.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Guidance ability",
+            "weight": 5
+        }            
     ]
 }
