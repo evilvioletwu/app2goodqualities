@@ -130,52 +130,52 @@
     "questions": [
         {
             "id": 1,
-            "text": "我有想到一些關於工作上的Good Ideas",
+            "text": "Having good ideas",
             "icon": "./share_idea_banner.png",
             "yes": "Yes",
             "no": "No",
-            "ability": "Idea Sharing",
-            "weight": 1
-        },
-        {
-            "id": 2,
-            "text": "I used to share my good ideas/thoughts.",
-            "icon": "./share_idea_banner.png",
-            "yes": "Many Times",
-            "no": "Not often",
             "ability": "Idea Sharing",
             "weight": 2
         },
         {
-            "id": 3,
-            "text": "I able to share my good ideas to whole team.",
+            "id": 2,
+            "text": "Sharing good ideas",
             "icon": "./share_idea_banner.png",
-            "yes": "Yes",
-            "no": "No",
+            "yes": "Many Times",
+            "no": "Not often",
             "ability": "Idea Sharing",
             "weight": 3
         },
         {
-            "id": 4,
-            "text": "I used to share my good ideas and the whole team buys in.",
+            "id": 3,
+            "text": "Sharing good ideas and team buys in",
             "icon": "./share_idea_banner.png",
             "yes": "Yes",
             "no": "No",
             "ability": "Idea Sharing",
-            "weight": 4
-        },
-        {
-            "id": 5,
-            "text": "How many side project do you have?",
-            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
-            "yes": "More than one",
-            "no": "Zero",
-            "ability": "Side project",
             "weight": 5
         },
         {
+            "id": 4,
+            "text": "None",
+            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Side project",
+            "weight": 2
+        },
+        {
+            "id": 5,
+            "text": "Some side projects.",
+            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Side project",
+            "weight": 3
+        },
+        {
             "id": 6,
-            "text": "Does any side project become part of the products?",
+            "text": "Some side projects become part of the project.",
             "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
             "yes": "Yes",
             "no": "No",
@@ -193,7 +193,7 @@
         },
         {
             "id": 8,
-            "text": "Active trying/learning to be a better team player?",
+            "text": "Active becoming a better team player?",
             "icon": "./teamwork.jpg",
             "yes": "Yes",
             "no": "No",
@@ -220,7 +220,7 @@
         },
         {
             "id": 11,
-            "text": "Clear code. Well maintained design document.",
+            "text": "Clear code. Well maintained document.",
             "icon": "./passion.jpg",
             "yes": "Yes",
             "no": "No",
@@ -229,7 +229,7 @@
         },
         {
             "id": 12,
-            "text": "Not only having good quality of work, can spot areas that can be improved and plan for incremental improvement. 很有心!",
+            "text": "很有心!",
             "icon": "./passion.jpg",
             "yes": "Yes",
             "no": "No",
@@ -256,7 +256,7 @@
         },
         {
             "id": 15,
-            "text": "Not only proactively taking on extra mile, but also seeking way to make things more efficient.",
+            "text": "Seeking way to make things more efficient.",
             "icon": "./extra-mile.jpg",
             "yes": "Yes",
             "no": "No",
@@ -274,7 +274,7 @@
         },
         {
             "id": 17,
-            "text": "Able to offer friendly help and able to inspire others to come up with solutions themselves.",
+            "text": "Able to inspire others to come up with solutions themselves.",
             "icon": "./helpfulness.jpg",
             "yes": "Yes",
             "no": "No",
@@ -319,7 +319,7 @@
         },
         {
             "id": 22,
-            "text": "Know how to get things done, how to organize tasks and how to avoid procrastination.",
+            "text": "Know how to get things done, how to organize tasks and avoid procrastination.",
             "icon": "./leadership.jpg",
             "yes": "Yes",
             "no": "No",
@@ -373,7 +373,7 @@
         },
         {
             "id": 28,
-            "text": "Just solve bugs/problems when they come.",
+            "text": "Just solve bugs when they come.",
             "icon": "./crisis.jpg",
             "yes": "Yes",
             "no": "No",
@@ -427,33 +427,6 @@
         },
         {
             "id": 34,
-            "text": "A follower to other team's instruction.",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 2
-        },
-        {
-            "id": 35,
-            "text": "Proactively identify and escalate gaps when working with other teams.",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 3
-        },
-        {
-            "id": 36,
-            "text": "Can make other team become you long-term partner.",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 5
-        },
-        {
-            "id": 37,
             "text": "No idea. Just want to keep current status.",
             "icon": "./career.jpg",
             "yes": "Yes",
@@ -462,7 +435,7 @@
             "weight": 2
         },
         {
-            "id": 38,
+            "id": 35,
             "text": "Having the desire to advance but still have uncertainties.",
             "icon": "./career.jpg",
             "yes": "Yes",
@@ -471,7 +444,7 @@
             "weight": 3
         },
         {
-            "id": 39,
+            "id": 36,
             "text": "Knowing exactly what is desired and will plan with the manager accordingly.",
             "icon": "./career.jpg",
             "yes": "Yes",
@@ -480,7 +453,7 @@
             "weight": 5
         },
         {
-            "id": 40,
+            "id": 37,
             "text": "Able to clearly present your work to others.",
             "icon": "./idea.jpg",
             "yes": "Yes",
@@ -489,7 +462,7 @@
             "weight": 2
         },
         {
-            "id": 41,
+            "id": 38,
             "text": "Able to clearly present your work to others and coach others to help together",
             "icon": "./idea.jpg",
             "yes": "Yes",
@@ -498,7 +471,7 @@
             "weight": 3
         },
         {
-            "id": 42,
+            "id": 39,
             "text": "Monitor others' progress and assist when needed.",
             "icon": "./idea.jpg",
             "yes": "Yes",
