@@ -243,7 +243,7 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 2
+            "weight": 1
         },
         {
             "id": 14,
@@ -252,7 +252,7 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 3
+            "weight": 2
         },
         {
             "id": 15,
@@ -261,7 +261,17 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 5
+            "weight": 3
+        },
+        {
+            "id": 16,
+            "text": "Not only proactively taking on extra mile, but also seeking way .",
+            "icon": "./extra-mile.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Extra Mile",
+            "weight": 4
         }
+        
     ]
 }
