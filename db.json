@@ -1,429 +1,429 @@
 {
-    "abilities": [
-        {
-            "id": 10,
-            "name": "Idea Sharing",
-        },
-        {
-            "id": 11,
-            "name": "Side project",
-        },
-        {
-            "id": 1,
-            "name": "Team Work",
-        },
-        {
-            "id": 2,
-            "name": "Passion about Quality of Work",
-        },
-        {
-            "id": 3,
-            "name": "Extra Mile",
-        },
-        {
-            "id": 4,
-            "name": "Helpfulness",
-        },
-        {
-            "id": 5,
-            "name": "Innovation",
-        },
-        {
-            "id": 6,
-            "name": "Leadership",
-        },
-        {
-            "id": 7,
-            "name": "Carefulness",
-        },
-        {
-            "id": 8,
-            "name": "Crisis management",
-        },
-        {
-            "id": 9,
-            "name": "Cross Team Collaboration",
-        },
-        {
-            "id": 12,
-            "name": "Career path",
-        },
-        {
-            "id": 13,
-            "name": "Guidance ability",
-        },
-        {
-            "id": 14,
-            "name": "Absorbing ability",
-        },
-        {
-            "id": 15,
-            "name": "Independent & Accountability",
-        },
-        {
-            "id": 16,
-            "name": "Effective & Efficient Communication",
-        },
-        {
-            "id": 17,
-            "name": "Analytical skills",
-        },
-        {
-            "id": 18,
-            "name": "Courage",
-        }
-    ],
-    "questions": [
-        {
-            "id": 1,
-            "text": "Having good ideas",
-            "icon": "./share_idea_banner.png",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Idea Sharing",
-            "weight": 2
-        },
-        {
-            "id": 2,
-            "text": "Sharing good ideas",
-            "icon": "./share_idea_banner.png",
-            "yes": "Many Times",
-            "no": "Not often",
-            "ability": "Idea Sharing",
-            "weight": 3
-        },
-        {
-            "id": 3,
-            "text": "Sharing good ideas and team buys in",
-            "icon": "./share_idea_banner.png",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Idea Sharing",
-            "weight": 5
-        },
-        {
-            "id": 4,
-            "text": "None",
-            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Side project",
-            "weight": 2
-        },
-        {
-            "id": 5,
-            "text": "Some side projects.",
-            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Side project",
-            "weight": 3
-        },
-        {
-            "id": 6,
-            "text": "Some side projects become part of the project.",
-            "icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Side project",
-            "weight": 5
-        },
-        {
-            "id": 7,
-            "text": "A team player?",
-            "icon": "./teamwork.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Team Work",
-            "weight": 2
-        },
-        {
-            "id": 8,
-            "text": "Active becoming a better team player?",
-            "icon": "./teamwork.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Team Work",
-            "weight": 3
-        },
-        {
-            "id": 9,
-            "text": "Seek ways to improve team dynamic. Help team grow. A team coordinator.",
-            "icon": "./teamwork.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Team Work",
-            "weight": 5
-        },
-        {
-            "id": 10,
-            "text": "Just do you job?",
-            "icon": "./passion.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Passion about Quality of Work",
-            "weight": 2
-        },
-        {
-            "id": 11,
-            "text": "Clear code. Well maintained document.",
-            "icon": "./passion.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Passion about Quality of Work",
-            "weight": 3
-        },
-        {
-            "id": 12,
-            "text": "很有心!",
-            "icon": "./passion.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Passion about Quality of Work",
-            "weight": 5
-        },
-        {
-            "id": 13,
-            "text": "Taking on extra mile when asked.",
-            "icon": "./extra-mile.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Extra Mile",
-            "weight": 2
-        },
-        {
-            "id": 14,
-            "text": "Proactively taking on extra mile.",
-            "icon": "./extra-mile.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Extra Mile",
-            "weight": 3
-        },
-        {
-            "id": 15,
-            "text": "Seeking way to make things more efficient.",
-            "icon": "./extra-mile.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Extra Mile",
-            "weight": 5
-        },
-        {
-            "id": 16,
-            "text": "Able to offer help.",
-            "icon": "./helpfulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Helpfulness",
-            "weight": 2
-        },
-        {
-            "id": 17,
-            "text": "Able to inspire others to come up with solutions themselves.",
-            "icon": "./helpfulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Helpfulness",
-            "weight": 3
-        },
-        {
-            "id": 18,
-            "text": "Able to help by just being present (J/K)",
-            "icon": "./helpfulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Helpfulness",
-            "weight": 5
-        },
-        {
-            "id": 19,
-            "text": "Always stick with the good old way.",
-            "icon": "./innovation.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Innovation",
-            "weight": 2
-        },
-        {
-            "id": 20,
-            "text": "Being open minded to try out new solution proposed by others even though it may take some extra time initially, and will provide feedback.",
-            "icon": "./innovation.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Innovation",
-            "weight": 3
-        },
-        {
-            "id": 21,
-            "text": "Proactively investigate/try new solutions if the current solution is not optimal.",
-            "icon": "./innovation.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Innovation",
-            "weight": 5
-        },
-        {
-            "id": 22,
-            "text": "Know how to get things done",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 2
-        },
-        {
-            "id": 23,
-            "text": "Able to direct teammates",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 3
-        },
-        {
-            "id": 24,
-            "text": "Visions and Motivate",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 5
-        },
-        {
-            "id": 25,
-            "text": "By extra careful.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 2
-        },
-        {
-            "id": 26,
-            "text": "Through using tools to help.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 3
-        },
-        {
-            "id": 27,
-            "text": "Using/investigating/improving/developing tools.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 5
-        },
-        {
-            "id": 28,
-            "text": "When they come.",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 2
-        },
-        {
-            "id": 29,
-            "text": "Learning from the bugs solved",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 3
-        },
-        {
-            "id": 30,
-            "text": "Foresee danger ahead of time.",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 5
-        },
-        {
-            "id": 31,
-            "text": "A follower",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 2
-        },
-        {
-            "id": 32,
-            "text": "Proactively identify and escalate gaps",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 3
-        },
-        {
-            "id": 33,
-            "text": "Can make other team become long-term partner.",
-            "icon": "./cross_team.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Cross Team Collaboration",
-            "weight": 5
-        },
-        {
-            "id": 34,
-            "text": "No idea.",
-            "icon": "./career.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Career path",
-            "weight": 2
-        },
-        {
-            "id": 35,
-            "text": "Having the desire",
-            "icon": "./career.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Career path",
-            "weight": 3
-        },
-        {
-            "id": 36,
-            "text": "Knowing exactly",
-            "icon": "./career.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Career path",
-            "weight": 5
-        },
-        {
-            "id": 37,
-            "text": "Clearly present",
-            "icon": "./idea.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Guidance ability",
-            "weight": 2
-        },
-        {
-            "id": 38,
-            "text": "Coach",
-            "icon": "./idea.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Guidance ability",
-            "weight": 3
-        },
-        {
-            "id": 39,
-            "text": "Monitor others' progress and assist when needed.",
-            "icon": "./idea.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Guidance ability",
-            "weight": 5
-        }  
-    ]
+"abilities": [
+{
+"id": 10,
+"name": "Idea Sharing",
+},
+{
+"id": 11,
+"name": "Side project",
+},
+{
+"id": 1,
+"name": "Team Work",
+},
+{
+"id": 2,
+"name": "Passion about Quality of Work",
+},
+{
+"id": 3,
+"name": "Extra Mile",
+},
+{
+"id": 4,
+"name": "Helpfulness",
+},
+{
+"id": 5,
+"name": "Innovation",
+},
+{
+"id": 6,
+"name": "Leadership",
+},
+{
+"id": 7,
+"name": "Carefulness",
+},
+{
+"id": 8,
+"name": "Crisis management",
+},
+{
+"id": 9,
+"name": "Cross Team Collaboration",
+},
+{
+"id": 12,
+"name": "Career path",
+},
+{
+"id": 13,
+"name": "Guidance ability",
+},
+{
+"id": 14,
+"name": "Absorbing ability",
+},
+{
+"id": 15,
+"name": "Independent & Accountability",
+},
+{
+"id": 16,
+"name": "Effective & Efficient Communication",
+},
+{
+"id": 17,
+"name": "Analytical skills",
+},
+{
+"id": 18,
+"name": "Courage",
+}
+],
+"questions": [
+{
+"id": 1,
+"text": "Having good ideas",
+"icon": "./share_idea_banner.png",
+"yes": "Yes",
+"no": "No",
+"ability": "Idea Sharing",
+"weight": 2
+},
+{
+"id": 2,
+"text": "Sharing good ideas",
+"icon": "./share_idea_banner.png",
+"yes": "Many Times",
+"no": "Not often",
+"ability": "Idea Sharing",
+"weight": 3
+},
+{
+"id": 3,
+"text": "Sharing good ideas and team buys in",
+"icon": "./share_idea_banner.png",
+"yes": "Yes",
+"no": "No",
+"ability": "Idea Sharing",
+"weight": 5
+},
+{
+"id": 4,
+"text": "None",
+"icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Side project",
+"weight": 2
+},
+{
+"id": 5,
+"text": "Some side projects.",
+"icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Side project",
+"weight": 3
+},
+{
+"id": 6,
+"text": "Some side projects become part of the project.",
+"icon": "./3fsSPDd693xmq6iiX5aj6c-320-80.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Side project",
+"weight": 5
+},
+{
+"id": 7,
+"text": "A team player?",
+"icon": "./teamwork.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Team Work",
+"weight": 2
+},
+{
+"id": 8,
+"text": "Active becoming a better team player?",
+"icon": "./teamwork.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Team Work",
+"weight": 3
+},
+{
+"id": 9,
+"text": "Seek ways to improve team dynamic. Help team grow. A team coordinator.",
+"icon": "./teamwork.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Team Work",
+"weight": 5
+},
+{
+"id": 10,
+"text": "Just do you job?",
+"icon": "./passion.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Passion about Quality of Work",
+"weight": 2
+},
+{
+"id": 11,
+"text": "Clear code. Well maintained document.",
+"icon": "./passion.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Passion about Quality of Work",
+"weight": 3
+},
+{
+"id": 12,
+"text": "很有心!",
+"icon": "./passion.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Passion about Quality of Work",
+"weight": 5
+},
+{
+"id": 13,
+"text": "Taking on extra mile when asked.",
+"icon": "./extra-mile.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Extra Mile",
+"weight": 2
+},
+{
+"id": 14,
+"text": "Proactively taking on extra mile.",
+"icon": "./extra-mile.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Extra Mile",
+"weight": 3
+},
+{
+"id": 15,
+"text": "Seeking way to make things more efficient.",
+"icon": "./extra-mile.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Extra Mile",
+"weight": 5
+},
+{
+"id": 16,
+"text": "Able to offer help.",
+"icon": "./helpfulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Helpfulness",
+"weight": 2
+},
+{
+"id": 17,
+"text": "Able to inspire others to come up with solutions themselves.",
+"icon": "./helpfulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Helpfulness",
+"weight": 3
+},
+{
+"id": 18,
+"text": "Able to help by just being present (J/K)",
+"icon": "./helpfulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Helpfulness",
+"weight": 5
+},
+{
+"id": 19,
+"text": "Always stick with the good old way.",
+"icon": "./innovation.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Innovation",
+"weight": 2
+},
+{
+"id": 20,
+"text": "Being open minded to try out new solution proposed by others even though it may take some extra time initially, and will provide feedback.",
+"icon": "./innovation.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Innovation",
+"weight": 3
+},
+{
+"id": 21,
+"text": "Proactively investigate/try new solutions if the current solution is not optimal.",
+"icon": "./innovation.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Innovation",
+"weight": 5
+},
+{
+"id": 22,
+"text": "Know how to get things done",
+"icon": "./leadership.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Leadership",
+"weight": 2
+},
+{
+"id": 23,
+"text": "Able to direct teammates",
+"icon": "./leadership.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Leadership",
+"weight": 3
+},
+{
+"id": 24,
+"text": "Visions and Motivate",
+"icon": "./leadership.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Leadership",
+"weight": 5
+},
+{
+"id": 25,
+"text": "By extra careful.",
+"icon": "./carefulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Carefulness",
+"weight": 2
+},
+{
+"id": 26,
+"text": "Through using tools to help.",
+"icon": "./carefulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Carefulness",
+"weight": 3
+},
+{
+"id": 27,
+"text": "Using/investigating/improving/developing tools.",
+"icon": "./carefulness.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Carefulness",
+"weight": 5
+},
+{
+"id": 28,
+"text": "When they come.",
+"icon": "./crisis.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Crisis management",
+"weight": 2
+},
+{
+"id": 29,
+"text": "Learning from the bugs solved",
+"icon": "./crisis.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Crisis management",
+"weight": 3
+},
+{
+"id": 30,
+"text": "Foresee danger ahead of time.",
+"icon": "./crisis.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Crisis management",
+"weight": 5
+},
+{
+"id": 31,
+"text": "A follower",
+"icon": "./cross_team.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Cross Team Collaboration",
+"weight": 2
+},
+{
+"id": 32,
+"text": "Proactively identify and escalate gaps",
+"icon": "./cross_team.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Cross Team Collaboration",
+"weight": 3
+},
+{
+"id": 33,
+"text": "Can make other team become long-term partner.",
+"icon": "./cross_team.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Cross Team Collaboration",
+"weight": 5
+},
+{
+"id": 34,
+"text": "No idea.",
+"icon": "./career.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Career path",
+"weight": 2
+},
+{
+"id": 35,
+"text": "Having the desire",
+"icon": "./career.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Career path",
+"weight": 3
+},
+{
+"id": 36,
+"text": "Knowing exactly",
+"icon": "./career.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Career path",
+"weight": 5
+},
+{
+"id": 37,
+"text": "Clearly present",
+"icon": "./idea.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Guidance ability",
+"weight": 2
+},
+{
+"id": 38,
+"text": "Coach",
+"icon": "./idea.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Guidance ability",
+"weight": 3
+},
+{
+"id": 39,
+"text": "Monitor others' progress and assist when needed.",
+"icon": "./idea.jpg",
+"yes": "Yes",
+"no": "No",
+"ability": "Guidance ability",
+"weight": 5
+}  
+]
 }
