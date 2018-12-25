@@ -235,7 +235,8 @@
             "no": "No",
             "ability": "Passion about Quality of Work",
             "weight": 5
-        },
+        }
+         <!-- ,
         {
             "id": 13,
             "text": "Taking on extra mile when asked.",
@@ -316,8 +317,7 @@
             "no": "No",
             "ability": "Innovation",
             "weight": 5
-        }
-        <!-- ,
+        },
         {
             "id": 22,
             "text": "Know how to get things done, how to organize tasks and avoid procrastination.",
