@@ -316,7 +316,8 @@
             "no": "No",
             "ability": "Innovation",
             "weight": 5
-        },
+        }
+        <!-- ,
         {
             "id": 22,
             "text": "Know how to get things done, how to organize tasks and avoid procrastination.",
@@ -478,6 +479,7 @@
             "no": "No",
             "ability": "Guidance ability",
             "weight": 5
-        }            
+        }  
+        -->
     ]
 }
