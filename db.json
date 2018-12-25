@@ -243,7 +243,7 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 1
+            "weight": 2
         },
         {
             "id": 14,
@@ -252,7 +252,7 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 2
+            "weight": 3
         },
         {
             "id": 15,
@@ -261,17 +261,88 @@
             "yes": "Yes",
             "no": "No",
             "ability": "Extra Mile",
-            "weight": 3
+            "weight": 5
         },
         {
             "id": 16,
-            "text": "Not only proactively taking on extra mile, but also seeking way .",
-            "icon": "./extra-mile.jpg",
+            "text": "Able to offer help.",
+            "icon": "./helpfulness.jpg",
             "yes": "Yes",
             "no": "No",
-            "ability": "Extra Mile",
-            "weight": 4
-        }
-        
+            "ability": "Helpfulness",
+            "weight": 2
+        },
+        {
+            "id": 17,
+            "text": "Able to offer friendly help and able to inspire others to come up with solutions themselves.",
+            "icon": "./helpfulness.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Helpfulness",
+            "weight": 3
+        },
+        {
+            "id": 18,
+            "text": "Able to help by just being present (J/K)",
+            "icon": "./helpfulness.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Helpfulness",
+            "weight": 5
+        },
+        {
+            "id": 19,
+            "text": "Always stick with the good old way.",
+            "icon": "./innovation.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Innovation",
+            "weight": 2
+        },
+        {
+            "id": 20,
+            "text": "Being open minded to try out new solution proposed by others even though it may take some extra time initially, and will provide feedback.",
+            "icon": "./innovation.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Innovation",
+            "weight": 3
+        },
+        {
+            "id": 21,
+            "text": "Proactively investigate/try new solutions if the current solution is not optimal.",
+            "icon": "./innovation.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Innovation",
+            "weight": 5
+        },
+        {
+            "id": 22,
+            "text": "Know how to get things done, how to organize tasks and how to avoid procrastination.",
+            "icon": "./leadership.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Leadership",
+            "weight": 2
+        },
+        {
+            "id": 23,
+            "text": "Able to direct yourself and teammates effectively. ",
+            "icon": "./leadership.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Leadership",
+            "weight": 3
+        },
+        {
+            "id": 24,
+            "text": "Having good visions and ability to motivate others with humble attitude.",
+            "icon": "./leadership.jpg",
+            "yes": "Yes",
+            "no": "No",
+            "ability": "Leadership",
+            "weight": 5
+        }        
     ]
 }
