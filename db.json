@@ -316,33 +316,6 @@
             "no": "No",
             "ability": "Carefulness",
             "weight": 5
-        },
-        {
-            "id": 28,
-            "text": "When they come.",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 2
-        },
-        {
-            "id": 29,
-            "text": "Learning from the bugs solved",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 3
-        },
-        {
-            "id": 30,
-            "text": "Foresee danger ahead of time.",
-            "icon": "./crisis.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Crisis management",
-            "weight": 5
-        } 
+        }
     ]
 }
