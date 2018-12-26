@@ -1,6 +1,20 @@
 {
 "abilities": [
 {
+	"id": 10,
+	"name": "Idea Sharing",
+	"excellent": "",
+	"above": "",
+	"average": ""
+},
+{
+	"id": 11,
+	"name": "Side project",
+	"excellent": "",
+	"above": "",
+	"average": ""
+},
+{
 	"id": 1,
 	"name": "Team Work",
 	"excellent": "",
@@ -52,20 +66,6 @@
 {
 	"id": 8,
 	"name": "Crisis management",
-	"excellent": "",
-	"above": "",
-	"average": ""
-},
-{
-	"id": 10,
-	"name": "Idea Sharing",
-	"excellent": "",
-	"above": "",
-	"average": ""
-},
-{
-	"id": 11,
-	"name": "Side project",
 	"excellent": "",
 	"above": "",
 	"average": ""
