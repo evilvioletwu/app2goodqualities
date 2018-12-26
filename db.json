@@ -1,70 +1,70 @@
 {
 "abilities": [
 {
-	"id": 10,
+	"id": 1,
 	"name": "Idea Sharing",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 11,
+	"id": 2,
 	"name": "Side project",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 1,
+	"id": 3,
 	"name": "Team Work",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 2,
+	"id": 4,
 	"name": "Passion about Quality of Work",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 3,
+	"id": 5,
 	"name": "Extra Mile",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 4,
+	"id": 6,
 	"name": "Helpfulness",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 5,
+	"id": 7,
 	"name": "Innovation",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 6,
+	"id": 8,
 	"name": "Leadership",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 7,
+	"id": 9,
 	"name": "Carefulness",
 	"excellent": "",
 	"above": "",
 	"average": ""
 },
 {
-	"id": 8,
+	"id": 10,
 	"name": "Crisis management",
 	"excellent": "",
 	"above": "",
