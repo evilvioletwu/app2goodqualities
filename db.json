@@ -3,74 +3,128 @@
         {
             "id": 10,
             "name": "Idea Sharing",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 11,
             "name": "Side project",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 1,
             "name": "Team Work",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 2,
             "name": "Passion about Quality of Work",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 3,
             "name": "Extra Mile",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 4,
             "name": "Helpfulness",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 5,
             "name": "Innovation",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 6,
             "name": "Leadership",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 7,
             "name": "Carefulness",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 8,
             "name": "Crisis management",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 9,
             "name": "Cross Team Collaboration",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 12,
             "name": "Career path",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 13,
             "name": "Guidance ability",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 14,
             "name": "Absorbing ability",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 15,
             "name": "Independent & Accountability",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 16,
             "name": "Effective & Efficient Communication",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 17,
             "name": "Analytical skills",
+            "excellent": "",
+            "above": "",
+            "average": ""
         },
         {
             "id": 18,
             "name": "Courage",
+            "excellent": "",
+            "above": "",
+            "average": ""
         }
     ],
     "questions": [
