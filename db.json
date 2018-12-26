@@ -262,60 +262,6 @@
             "no": "No",
             "ability": "Innovation",
             "weight": 5
-        },
-        {
-            "id": 22,
-            "text": "Know how to get things done",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 2
-        },
-        {
-            "id": 23,
-            "text": "Able to direct teammates",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 3
-        },
-        {
-            "id": 24,
-            "text": "Visions and Motivate",
-            "icon": "./leadership.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Leadership",
-            "weight": 5
-        },
-        {
-            "id": 25,
-            "text": "By extra careful.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 2
-        },
-        {
-            "id": 26,
-            "text": "Through using tools to help.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 3
-        },
-        {
-            "id": 27,
-            "text": "Using/investigating/improving/developing tools.",
-            "icon": "./carefulness.jpg",
-            "yes": "Yes",
-            "no": "No",
-            "ability": "Carefulness",
-            "weight": 5
         }
     ]
 }
